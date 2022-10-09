@@ -38,9 +38,6 @@ Nesse projeto, você será capaz de:
 # Intruções gerais
 
 1. Clone o repositório
-  * `git clone https://github.com/tryber/sd-0x-project-movie-cards-library-stateful.git`
-  * Entre na pasta do repositório que você acabou de clonar:
-    * `cd sd-0x-project-movie-cards-library-stateful`
 
 2. Instale as dependências, inicialize o projeto
   * Instale as dependências:
