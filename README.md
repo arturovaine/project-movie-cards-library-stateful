@@ -54,7 +54,7 @@ Esse componente renderizará uma barra com filtros acima da listagem de cartões
 
   - `searchText`, uma string
   - `onSearchTextChange`, uma callback
-  - `bookmarkedOnly`, um boolean
+  - `bookmarkedOnly`, um boolean   
   - `onBookmarkedChange`, uma callback
   - `selectedGenre`, uma string
   - `onSelectedGenreChange`, uma callback
