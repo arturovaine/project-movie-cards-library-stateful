@@ -1,7 +1,7 @@
 # Projeto Movie Cards Library Stateful
 
 # Sumário
-
+ 
 - [Habilidades](#habilidades)
 - [Requisitos do projeto](#requisitos-do-projeto)
     - [1 - Crie um componente chamado `<SearchBar />`](#1---crie-um-componente-chamado-searchbar-)
